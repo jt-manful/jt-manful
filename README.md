@@ -135,7 +135,8 @@ Fine-tuned and compared π0.5 and X-VLA on manipulation tasks including brick pl
 
 **Focus:** Vision-language-action models, robotic manipulation, policy serving, and simulation.
 
-**Repository:** Coming soon.
+**Repository:** [Explore the repository →](https://github.com/jt-manful/vla-for-opening-milk)
+
 
 ### 🤖 [Autonomous Robotics & AI Platform](https://github.com/jt-manful/Automous-Robot-and-AI-Platform)
 
@@ -179,11 +180,14 @@ Participating in the robotics community through the Mobile Robotics Hackathon.
 
 ## 🌱 Beyond the Code
 
-I'm interested in how robotics, AI, and software engineering can be combined to build useful, reliable intelligent systems.
+Outside of technology, I enjoy staying active, exploring new interests, and taking on challenges that push me to grow.
 
-I enjoy collaborating on challenging technical projects, learning new tools, and turning ideas into practical implementations. I'm open to opportunities in robotics, autonomous systems, AI, and software engineering.
+- ⚽ **Football:** A passionate Arsenal fan — COYG! 🔴⚪️
+- 🏎️ **Formula 1:** Always cheering for #44. Let's go! 🏁
+- 💪 **Health & Fitness:** You'll probably find me in the gym, working towards my next goal.
+- 🇩🇪 **Learning German:** Currently at B1.2 level and continuing to improve.
 
-I'm also learning German and currently working at the B1 level.
+I'm always happy to connect with people, collaborate on exciting ideas, and learn something new along the way.
 
 ---
 
