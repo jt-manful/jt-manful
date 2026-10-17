@@ -127,7 +127,7 @@ Developed an institutional data-sharing platform using Python, Django REST Frame
 
 ## 🚀 Featured Projects
 
-### 🦾 VLA Models for Bimanual Manipulation
+### 🦾 [VLA Models for Bimanual Manipulation](https://github.com/jt-manful/vla-for-opening-milk)
 
 **Vision-Language-Action Models | Robotic Manipulation**
 
